@@ -28,7 +28,7 @@ This wasn't a one-step job. This was a whole ordeal. Here’s how the chase went
 
 First things first, find the health. Scan for the number, take a hit, scan again. Except, it wasn't there. After chasing my own tail, I figured out the first trick: the health wasn't a simple number, it was a **Float**. A decimal number pretending to be a whole one. Clever girl.
 
-![Fig. 1: Isolating the dynamic Float address for health](assets\01.DynamicPointerHealth.JPG)
+![Fig. 1: Isolating the dynamic Float address for health](assets/01.DynamicPointerHealth.JPG)
 > **Fig. 1:** Finally cornering the health value. Turns out it was wearing a disguise the whole time.
 
 But here's the kicker: trying to change this number did absolutely nothing. It was a decoy. The game's real logic would just slap my hand away and write the correct value back over it. I wasn't just chasing a mouse, I was chasing its shadow.
