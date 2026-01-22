@@ -65,7 +65,7 @@ With all the clues in hand (`FTLGame.exe+51348C`, `0x4D4` for Scrap, and `0x494`
 
 ## What I Reckon in the End
 
-This was a grand project. It's a perfect example of how even a simple looking game has a few tricks up its sleeve. It really hammered home the difference between what you see on screen and what's actually happening under the hood. All in all, a good day's work. Now, if you'll excuse me, I have a ridiculously well funded spaceship to fly.
+It's a perfect example of how even a simple looking game has a few tricks up its sleeve. It really hammered home the difference between what you see on screen and what's actually happening under the hood.
 
 ## Where Could We Go From Here? (Future Work)
 
